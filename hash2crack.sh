@@ -1,6 +1,16 @@
 #!/bin/bash
 # Script para ayudar a identificar hashes y probar John the Ripper/Hashcat
-
+# Nombre: hash2crack.sh
+# Descripción: Script para identificar hashes y facilitar el uso de John the Ripper y Hashcat.
+# Autor: Mauricio Chaves Chaves mauricioalch2@gmail.com
+# Fecha de creación: 18-05-2025
+# Última actualización: 21-05-2025
+#
+# Este script fue desarrollado por Mauricio como uso personal para pruebas y como una extencion de un trabajo academico.
+# Está diseñado para identificar automáticamente tipos de hashes y facilitar su uso con herramientas
+# de cracking como John the Ripper y Hashcat con ayuda de la herramienta hashID.
+# Tambien facilita la creacion de hashes de prueba para la prueba de las herramientas John the Ripper y Hashcat.
+# Uso: ./hash2crack.sh.sh
 
 # Colores para mejor visualización :D
 VERDE='\033[0;32m'
