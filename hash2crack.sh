@@ -3,6 +3,7 @@
 # Nombre: hash2crack.sh
 # Descripción: Script para identificar hashes y facilitar el uso de John the Ripper y Hashcat.
 # Autor: Mauricio Chaves Chaves mauricioalch2@gmail.com
+# Github: https://github.com/MauricioCh2
 # Fecha de creación: 18-05-2025
 # Última actualización: 21-05-2025
 #
